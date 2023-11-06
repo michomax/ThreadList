@@ -1,2 +1,3 @@
 www.lemonde.fr
 lemonde.fr
+*lemonde.fr
